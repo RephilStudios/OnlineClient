@@ -1,0 +1,385 @@
+Initialize engine version: 5.5.0b11 (03364468e96e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.13.6839
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.191572 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2428 -> priority: 1 
+UnityEngine.WWW
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rodney
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.711300 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 6886.
+Total: 2.879767 ms (FindLiveObjects: 0.403657 ms CreateObjectMapping: 0.301261 ms MarkObjects: 2.141703 ms  DeleteObjects: 0.030988 ms)
+
+Update() was called by Unity. Scene is loaded. Let's connect to the Photon Master Server. Calling: PhotonNetwork.ConnectUsingSettings();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SwitchToProtocol: Udp PhotonNetwork.connected: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Friends 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Subscribed to a new channel!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: MicWrapper does not support suggested frequency 24000 (min: 44100, max: 44100). Setting to 44100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Local voice #1 audio source frequency 44100 and encoder sampling rate 24000 do not match. Resampling will occur before encoding.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Atlas resolution is too small, Textures will be reduced.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ Loaded in : 0.07999992 Second(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Atlas resolution is too small, Textures will be reduced.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Atlas resolution is too small, Textures will be reduced.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Atlas resolution is too small, Textures will be reduced.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ Loaded in : 0.1599998 Second(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Atlas resolution is too small, Textures will be reduced.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: [PV] Frame event for voice #1 of not inited channel #1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: Player 1 voice #1 speaker created.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: Player 1 voice # 1 speaker unlinked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
