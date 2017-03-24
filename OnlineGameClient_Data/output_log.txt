@@ -1,0 +1,439 @@
+Mono path[0] = 'C:/Users/Gamer/Documents/Unity Projects/TestUMA/Build/OnlineGameClient_Data/Managed'
+Mono path[1] = 'C:/Users/Gamer/Documents/Unity Projects/TestUMA/Build/OnlineGameClient_Data/Mono'
+Mono config path = 'C:/Users/Gamer/Documents/Unity Projects/TestUMA/Build/OnlineGameClient_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Gamer/Documents/Unity Projects/TestUMA/Build/OnlineGameClient_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55033
+Multi-casting "[IP] 192.168.1.104 [Port] 55033 [Flags] 3 [Guid] 3336889148 [EditorId] 1046073002 [Version] 1048832 [Id] WindowsPlayer(Gamer-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55033]...
+PlayerConnection accepted from [192.168.1.104] handle:0x270
+Started listening to [0.0.0.0:55033]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56148
+PlayerConnection already initialized - listening to [0.0.0.0:55033]
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.13.6839
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\DialogueSystem.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\DialogueSystem.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\LuaInterpreter.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\LuaInterpreter.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gamer\Documents\Unity Projects\TestUMA\Build\OnlineGameClient_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.376919 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2724 -> priority: 1 
+login successful
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoginToDB>c__Iterator0:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Database\Login\Login.cs:21)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Database/Login/Login.cs Line: 21)
+
+UnityEngine.WWW
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoginToServer>c__Iterator1:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Database\Login\Login.cs:40)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Database/Login/Login.cs Line: 40)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoginToServer>c__Iterator1:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Database\Login\Login.cs:47)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Database/Login/Login.cs Line: 47)
+
+Reidster
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoginToServer>c__Iterator1:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Database\Login\Login.cs:48)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Database/Login/Login.cs Line: 48)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.055349 ms
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadInventory>c__Iterator0:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\Character\Inventory\Inventory.cs:75)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine(String, Object)
+UnityEngine.MonoBehaviour:StartCoroutine(String) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\MonoBehaviourBindings.gen.cs:74)
+Inventory:OnEnable() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\Character\Inventory\Inventory.cs:15)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/Character/Inventory/Inventory.cs Line: 75)
+
+System memory in use before: 142.3 MB.
+System memory in use after: 142.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 8640.
+Total: 4.772472 ms (FindLiveObjects: 0.548897 ms CreateObjectMapping: 0.376171 ms MarkObjects: 3.777073 ms  DeleteObjects: 0.052545 ms)
+
+Update() was called by Unity. Scene is loaded. Let's connect to the Photon Master Server. Calling: PhotonNetwork.ConnectUsingSettings();
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ConnectAndJoinRandom:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\UtilityScripts\ConnectAndJoinRandom.cs:29)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs Line: 29)
+
+SwitchToProtocol: Udp PhotonNetwork.connected: False
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PhotonNetwork:SwitchToProtocol(ConnectionProtocol) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:1172)
+PhotonNetwork:ConnectUsingSettings(String) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:1219)
+ConnectAndJoinRandom:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\UtilityScripts\ConnectAndJoinRandom.cs:32)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonNetwork.cs Line: 1172)
+
+FemaleClothing.php
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CheckClothingAssetBundles>c__Iterator0:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\AssetBundleSystem\AvatarContent\AvatarContent.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/AssetBundleSystem/AvatarContent/AvatarContent.cs Line: 26)
+
+ Loaded in : 0.26 Second(s)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<RetrieveData>c__Iterator2:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\Character\Inventory\Inventory.cs:131)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/Character/Inventory/Inventory.cs Line: 131)
+
+OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ConnectAndJoinRandom:OnConnectedToMaster() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\UtilityScripts\ConnectAndJoinRandom.cs:43)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2601)
+NetworkingPeer:OnOperationResponse(OperationResponse) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1660)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:156)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs Line: 43)
+
+Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+NetworkingPeer:OnOperationResponse(OperationResponse) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1528)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:156)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs Line: 1528)
+
+OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one. Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ConnectAndJoinRandom:OnPhotonRandomJoinFailed() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\UtilityScripts\ConnectAndJoinRandom.cs:55)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2601)
+NetworkingPeer:OnOperationResponse(OperationResponse) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1824)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:156)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs Line: 55)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+<InitFriends>c__Iterator0:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Client\UI\ClientChat.cs:67)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Client/UI/ClientChat.cs Line: 67)
+
+Subscribed to a new channel!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ClientChat:OnSubscribed(String[], Boolean[]) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Client\UI\ClientChat.cs:186)
+ExitGames.Client.Photon.Chat.ChatClient:HandleSubscribeEvent(EventData) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PhotonChatApi\ChatClient.cs:909)
+ExitGames.Client.Photon.Chat.ChatClient:ExitGames.Client.Photon.IPhotonPeerListener.OnEvent(EventData) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PhotonChatApi\ChatClient.cs:713)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:Service()
+ExitGames.Client.Photon.Chat.ChatClient:Service() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PhotonChatApi\ChatClient.cs:209)
+ClientChat:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Client\UI\ClientChat.cs:56)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Client/UI/ClientChat.cs Line: 186)
+
+Loaded Friends 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadFriendsList>c__Iterator1:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Client\UI\ClientChat.cs:94)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Client/UI/ClientChat.cs Line: 94)
+
+PUNVoice: connecting to region us
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+PhotonVoiceNetwork:Connect() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PUNVoice\Scripts\PhotonVoiceNetwork.cs:113)
+UnityVoiceFrontend:Reconnect() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PUNVoice\Scripts\PhotonVoiceNetwork.cs:324)
+PhotonVoiceNetwork:OnJoinedRoom() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PUNVoice\Scripts\PhotonVoiceNetwork.cs:240)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2601)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2342)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:156)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/PUNVoice/Scripts/PhotonVoiceNetwork.cs Line: 113)
+
+OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ConnectAndJoinRandom:OnJoinedRoom() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\UtilityScripts\ConnectAndJoinRandom.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2601)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2342)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:156)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Photon Unity Networking/UtilityScripts/ConnectAndJoinRandom.cs Line: 68)
+
+scenePath = Assets/PlayerTesting.unity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadTerrainBundle>c__Iterator0:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\AssetBundleSystem\Fix\SimpleLoadAssetBundleTerrain.cs:34)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/AssetBundleSystem/Fix/SimpleLoadAssetBundleTerrain.cs Line: 34)
+
+Loaded Scene : PlayerTesting
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SimpleLoadAssetBundleTerrain:SceneLoaded(Scene, LoadSceneMode) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\AssetBundleSystem\Fix\SimpleLoadAssetBundleTerrain.cs:43)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\SceneManagerBindings.gen.cs:230)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/AssetBundleSystem/Fix/SimpleLoadAssetBundleTerrain.cs Line: 43)
+
+Destroyed 0 cloth components your welcome
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleShaderFix:ApplyShaders() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\AssetBundleSystem\Fix\AssetBundleShaderFix.cs:32)
+SimpleLoadAssetBundleTerrain:SceneLoaded(Scene, LoadSceneMode) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\AssetBundleSystem\Fix\SimpleLoadAssetBundleTerrain.cs:45)
+UnityEngine.SceneManagement.SceneManager:Internal_SceneLoaded(Scene, LoadSceneMode) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\SceneManagerBindings.gen.cs:230)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/AssetBundleSystem/Fix/AssetBundleShaderFix.cs Line: 32)
+
+PUNVoice: MicWrapper does not support suggested frequency 24000 (min: 44100, max: 44100). Setting to 44100
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+MicWrapper:.ctor(String, Int32) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PUNVoice\Scripts\MicWrapper.cs:25)
+PhotonVoiceRecorder:Start() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PUNVoice\Scripts\PhotonVoiceRecorder.cs:129)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/PUNVoice/Scripts/MicWrapper.cs Line: 25)
+
+PUNVoice: [PV] Local voice #1 audio source frequency 44100 and encoder sampling rate 24000 do not match. Resampling will occur before encoding.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+UnityVoiceFrontend:DebugReturn(DebugLevel, String) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PUNVoice\Scripts\PhotonVoiceNetwork.cs:342)
+ExitGames.Client.Photon.Voice.LoadBalancingFrontend:LogWarning(String, Object[]) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Plugins\PhotonVoiceApi\LoadBalancingFrontend.cs:37)
+ExitGames.Client.Photon.Voice.LocalVoice:.ctor(VoiceClient, Byte, IAudioStreamBase, VoiceInfo, Int32) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Plugins\PhotonVoiceApi\Core\VoiceClient.cs:228)
+ExitGames.Client.Photon.Voice.LocalVoice`1:.ctor(VoiceClient, Byte, IAudioStream`1, VoiceInfo, Int32) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Plugins\PhotonVoiceApi\Core\VoiceClient.cs:317)
+ExitGames.Client.Photon.Voice.LocalVoiceFloat:.ctor(VoiceClient, Byte, IAudioStream`1, VoiceInfo, Int32) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Plugins\PhotonVoiceApi\Core\VoiceClient.cs:385)
+ExitGames.Client.Photon.Voice.VoiceClient:CreateLocalVoice(IAudioStreamBase, VoiceInfo, Int32) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Plugins\PhotonVoiceApi\Core\VoiceClient.cs:727)
+ExitGames.Client.Photon.Voice.LoadBalancingFrontend:CreateLocalVoice(IAudioStreamBase, VoiceInfo) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Plugins\PhotonVoiceApi\LoadBalancingFrontend.cs:152)
+PhotonVoiceNetwork:CreateLocalVoice(IAudioStreamFloat, VoiceInfo) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PUNVoice\Scripts\PhotonVoiceNetwork.cs:215)
+PhotonVoiceRecorder:Start() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\PUNVoice\Scripts\PhotonVoiceRecorder.cs:144)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/PUNVoice/Scripts/PhotonVoiceNetwork.cs Line: 342)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadAvatar>c__Iterator0:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Database\UMA\UMANetworkAvatar.cs:43)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine(String, Object)
+UnityEngine.MonoBehaviour:StartCoroutine(String) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\MonoBehaviourBindings.gen.cs:74)
+UMANetworkAvatar:Start() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Database\UMA\UMANetworkAvatar.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Database/UMA/UMANetworkAvatar.cs Line: 43)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadData>c__Iterator1:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\Character\Data\PlayerDataInstance.cs:69)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine(String, Object)
+UnityEngine.MonoBehaviour:StartCoroutine(String) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\MonoBehaviourBindings.gen.cs:74)
+PlayerDataInstance:Start() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\Character\Data\PlayerDataInstance.cs:20)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/Character/Data/PlayerDataInstance.cs Line: 69)
+
+Atlas resolution is too small, Textures will be reduced.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UMA.UMAGeneratorCoroutine:CalculateRects(GeneratedMaterial) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorCoroutine.cs:262)
+UMA.UMAGeneratorCoroutine:GenerateAtlasData() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorCoroutine.cs:225)
+UMA.<workerMethod>c__Iterator0:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorCoroutine.cs:167)
+UMA.WorkerCoroutine:Work() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\WorkerCoroutine.cs:65)
+UMA.UMAGeneratorBuiltin:HandleDirtyUpdate(UMAData) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorBuiltin.cs:110)
+UMA.UMAGeneratorBuiltin:OnDirtyUpdate() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorBuiltin.cs:143)
+UMA.UMAGeneratorBuiltin:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorBuiltin.cs:73)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Standard Assets/UMA/Core/Scripts/UMAGeneratorCoroutine.cs Line: 262)
+
+Added Assets
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<LoadClothingAssetBundles>c__Iterator1:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\AssetBundleSystem\AvatarContent\AvatarContent.cs:71)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/AssetBundleSystem/AvatarContent/AvatarContent.cs Line: 71)
+
+FemaleClothing
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+<LoadClothingAssetBundles>c__Iterator1:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\AssetBundleSystem\AvatarContent\AvatarContent.cs:81)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/AssetBundleSystem/AvatarContent/AvatarContent.cs Line: 81)
+
+ Loaded in : 0.03999996 Second(s)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<RetrieveData>c__Iterator4:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\Character\Data\PlayerDataInstance.cs:161)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/Character/Data/PlayerDataInstance.cs Line: 161)
+
+ Loaded in : 0.5999999 Second(s)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<RetrieveData>c__Iterator3:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\MMONetwork\Database\UMA\UMANetworkAvatar.cs:132)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/MMONetwork/Database/UMA/UMANetworkAvatar.cs Line: 132)
+
+Atlas resolution is too small, Textures will be reduced.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UMA.UMAGeneratorCoroutine:CalculateRects(GeneratedMaterial) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorCoroutine.cs:262)
+UMA.UMAGeneratorCoroutine:GenerateAtlasData() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorCoroutine.cs:225)
+UMA.<workerMethod>c__Iterator0:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorCoroutine.cs:167)
+UMA.WorkerCoroutine:Work() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\WorkerCoroutine.cs:65)
+UMA.UMAGeneratorBuiltin:HandleDirtyUpdate(UMAData) (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorBuiltin.cs:110)
+UMA.UMAGeneratorBuiltin:OnDirtyUpdate() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorBuiltin.cs:143)
+UMA.UMAGeneratorBuiltin:Update() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Standard Assets\UMA\Core\Scripts\UMAGeneratorBuiltin.cs:73)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Standard Assets/UMA/Core/Scripts/UMAGeneratorCoroutine.cs Line: 262)
+
+updating player data
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+<SendDataAndQuit>c__Iterator3:MoveNext() (at C:\Users\Gamer\Documents\Unity Projects\TestUMA\Assets\Assets\Scripts\Character\Data\PlayerDataInstance.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Gamer/Documents/Unity Projects/TestUMA/Assets/Assets/Scripts/Character/Data/PlayerDataInstance.cs Line: 138)
+
+Waiting for finish
